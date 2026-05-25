@@ -1,0 +1,22 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+    background-color: #f9f9f9;
+}
+
+.intro-box {
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    border-left: 8px solid #1F3C88;
+    margin-bottom: 30px;
+}
+
+.intro-box h1 {
+    color: #1F3C88;
+}
+
+.intro-box p {
+    text-align: justify;
+    line-height: 1.8;
+}
